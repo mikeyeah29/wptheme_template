@@ -1,0 +1,24 @@
+/*
+Theme Name: WpTheme
+Theme URI: https://wordpress.org/themes/twentysixteen/
+Author: Hmmmm
+Author URI: https://wordpress.org/
+Description: vfdvdfvfd
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: one-column, two-columns, right-sidebar, accessibility-ready, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-images, flexible-header, microformats, post-formats, rtl-language-support, sticky-post, threaded-comments, translation-ready, blog
+Text Domain: wptheme
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+body {
+	background: lightsteelblue;
+}
+
+h1, h2, h3, p {
+	font-family: 'Josefin Slab', serif;
+	font-family: 'Viga', sans-serif;
+	font-family: 'Yatra One', cursive;
+}
